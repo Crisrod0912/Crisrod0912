@@ -7,7 +7,7 @@
 </div>
 
 <pre>
-🧑🏻‍💻 Computer Systems Engineering student at Fidélitas University of Costa Rica.
+👨🏻‍💻 Computer Systems Engineering student at Fidélitas University of Costa Rica.
 🎓 Recently graduated with a Bachelor of Science in Computer Science and about to obtain his degree.
 💻 Web application development and object-oriented programming (OOP) are my strengths.
 💾 I have experience in other areas such as database management, project management and administration, network and communications design and control, and Machine Learning.
