@@ -91,23 +91,22 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 Profile Stats
-<table align="center"> 
-    <tr border="none">
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Crisrod0912&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-        </td>
-        <td width="50%" align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crisrod0912&theme=radical" alt="GitHub streak" height="180"/>  
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Crisrod0912&theme=radical" alt="GitHub streak" height="180"/>
+</p>  
+
 <table align="center">
-    <tr>
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisrod0912&layout=compact&theme=radical" alt="Top langs"/>   
-        </td>
-    </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crisrod0912&layout=compact&theme=radical" alt="Top languages"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crisrod0912&layout=compact&theme=radical" alt="Most commit language"/>
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crisrod0912&theme=radical" width="100%" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
