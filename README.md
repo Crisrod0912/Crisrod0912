@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:rodriguezfernandezcristopher@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_crisrod09/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopherrodríguezfernández)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white)]([https://open.spotify.com/user/bfa6nwo7uyqgtz2e2sdbstbuh](https://open.spotify.com/user/bfa6nwo7uyqgtz2e2sdbstbuh?si=67a4470a17154df0))
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/bfa6nwo7uyqgtz2e2sdbstbuh?si=67a4470a17154df0)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@_crodriguez09)
 
 ## 🛠️ Tech Stack
