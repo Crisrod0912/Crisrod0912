@@ -14,7 +14,7 @@
 🤖 Passionate about technology, programming languages, and Machine Learning.
 📚 Currently learning about Artificial Intelligence, Cybersecurity, and Data Analysis.
 💡 Interested in expanding my knowledge every day and sharing proposals or ideas for future projects.
-📄 Want to know more? Here's my CV: <a href="https://drive.google.com/file/d/1evz7FGwWPfw6DdTb4Fr4Wf-0q6lj758i/view" target="_blank">My Resume</a>
+📄 Want to know more? Here's my CV: <a href="https://drive.google.com/file/d/1bil93PTAVUE0JDeJ7C4s_WQXoQ5ZRk8N/view?usp=sharing" target="_blank">My Resume</a>
 </pre>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
